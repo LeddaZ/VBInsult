@@ -1,0 +1,11 @@
+C:\Users\leona\OneDrive\Visual Studio\VBInsult\VBInsult\bin\Debug\VBInsult.exe.config
+C:\Users\leona\OneDrive\Visual Studio\VBInsult\VBInsult\bin\Debug\VBInsult.exe
+C:\Users\leona\OneDrive\Visual Studio\VBInsult\VBInsult\bin\Debug\VBInsult.pdb
+C:\Users\leona\OneDrive\Visual Studio\VBInsult\VBInsult\bin\Debug\VBInsult.xml
+C:\Users\leona\OneDrive\Visual Studio\VBInsult\VBInsult\obj\Debug\VBInsult.vbprojAssemblyReference.cache
+C:\Users\leona\OneDrive\Visual Studio\VBInsult\VBInsult\obj\Debug\VBInsult.Resources.resources
+C:\Users\leona\OneDrive\Visual Studio\VBInsult\VBInsult\obj\Debug\VBInsult.vbproj.GenerateResource.cache
+C:\Users\leona\OneDrive\Visual Studio\VBInsult\VBInsult\obj\Debug\VBInsult.vbproj.CoreCompileInputs.cache
+C:\Users\leona\OneDrive\Visual Studio\VBInsult\VBInsult\obj\Debug\VBInsult.exe
+C:\Users\leona\OneDrive\Visual Studio\VBInsult\VBInsult\obj\Debug\VBInsult.xml
+C:\Users\leona\OneDrive\Visual Studio\VBInsult\VBInsult\obj\Debug\VBInsult.pdb
